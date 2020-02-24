@@ -1,0 +1,13 @@
+.App {
+  text-align: center;
+}
+
+#MainForm {
+  display: flex;
+  flex-direction: column;
+  width: 25%;
+  margin: auto;
+  min-width: 300px;
+  justify-content: space-around;
+  padding-top: 3rem;
+}
